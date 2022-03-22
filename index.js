@@ -42,7 +42,7 @@ btn.addEventListener("click" , function (){
     location.reload();
     
 })
-let diceAudio = new Audio("dice.wav");
+let diceAudio = new Audio("sound/dice.wav");
 diceAudio.play();
 
 
